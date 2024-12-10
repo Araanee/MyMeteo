@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyMeteo</string>
+    <string name="search_label">Search</string>
+    <string name="place_holder_input">Search for a city</string>
+    <string name="credits">Made with ♡ by Rawane Ouffa</string>
+    <string name="profile_url">https://www.linkedin.com/in/rawane-ouffa</string>
+
+    <string name="forecast_today">Forecast for today</string>
+    <string name="max_wind_speed">Max wind speed</string>
+    <string name="chance_of_rain">Chance of rain</string>
+    <string name="avg_humidity">Average humidity</string>
+
+    <string name="feeling">Feeling</string>
+    <string name="heat_index">Heat index</string>
+    <string name="uv">UV</string>
+    <string name="precipitation">Precipit.</string>
+    <string name="humidity">Humidity</string>
+    <string name="cloud">Cloud</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="wind_direction">Wind dir.</string>
+    <string name="wind_chill">Wind chill</string>
+
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+
+    <string name="apiName">Data provided by Weatherapi</string>
+    <string name="api_url">https://www.weatherapi.com/</string>
+</resources>
